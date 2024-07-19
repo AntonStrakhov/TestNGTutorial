@@ -3,7 +3,11 @@
 <suite name="Loan Department">
     <test name="Personal loan">
         <classes>
-            <class name="Day1"></class>
+            <class name="Day1">
+                <methods>
+                    <include name="Demo"></include>
+                </methods>
+            </class>
             <class name="Day2"></class>
             <class name="Day4"></class>
 
@@ -11,7 +15,12 @@
     </test>
     <test name="Car Loan">
         <classes>
-<class name="Day3"></class>
+<class name="Day3">
+
+    <methods>
+        <exclude name="MobileLoginCarLoan"></exclude>
+    </methods>
+</class>
         </classes>
 
     </test>
