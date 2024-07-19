@@ -7,4 +7,10 @@ public class Day1 {
 
         System.out.println("hello");
     }
+
+    @Test
+    public void SecondTest() {
+
+        System.out.println("bye");
+    }
 }
