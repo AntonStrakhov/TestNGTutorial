@@ -6,7 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="de72553e-173f-4f19-abd0-ae75e4e507f9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/Day1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,6 +48,11 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+  </component>
   <component name="RunManager" selected="TestNG.C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng.xml">
     <configuration name="C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGTutorial" />

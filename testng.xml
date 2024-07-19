@@ -5,7 +5,14 @@
         <classes>
             <class name="Day1"></class>
             <class name="Day2"></class>
+            <class name="Day4"></class>
 
         </classes>
+    </test>
+    <test name="Car Loan">
+        <classes>
+<class name="Day3"></class>
+        </classes>
+
     </test>
 </suite>

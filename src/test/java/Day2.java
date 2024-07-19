@@ -5,6 +5,6 @@ public class Day2 {
     @Test
     public void PLoan() {
 
-        System.out.println("hello");
+        System.out.println("good");
     }
 }
