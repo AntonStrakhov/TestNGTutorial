@@ -6,6 +6,7 @@
   <component name="ChangeListManager">
     <list default="true" id="de72553e-173f-4f19-abd0-ae75e4e507f9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Day3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -45,15 +46,29 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_opened_file_path": "C:/Users/astonuser/IdeaProjects/TestNGTutorial"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\astonuser\IdeaProjects\TestNGTutorial" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng.xml">
+  <component name="RunManager" selected="TestNG.C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng2.xml">
+    <configuration name="C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGTutorial" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
+      <option name="TEST_OBJECT" value="SUITE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGTutorial" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng.xml" />
@@ -67,7 +82,7 @@
     <configuration name="Day1" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGTutorial" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day1" />
+      <option name="MAIN_CLASS_NAME" value="test.Day1" />
       <option name="TEST_OBJECT" value="CLASS" />
       <properties />
       <listeners />
@@ -78,7 +93,7 @@
     <configuration name="Day1.Demo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGTutorial" />
       <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="Day1" />
+      <option name="MAIN_CLASS_NAME" value="test.Day1" />
       <option name="METHOD_NAME" value="Demo" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
@@ -89,6 +104,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng2.xml" />
         <item itemvalue="TestNG.C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng.xml" />
         <item itemvalue="TestNG.Day1" />
         <item itemvalue="TestNG.Day1.Demo" />

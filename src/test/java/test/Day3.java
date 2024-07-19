@@ -1,3 +1,5 @@
+package test;
+
 import org.testng.annotations.Test;
 
 public class Day3 {
@@ -13,7 +15,7 @@ public class Day3 {
     }
 
     @Test
-    public void LoginAPICarLoan() {
+    public void APICarLoan() {
         System.out.println("APIlogincar");
     }
 }

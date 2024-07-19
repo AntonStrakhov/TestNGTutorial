@@ -3,22 +3,22 @@
 <suite name="Loan Department">
     <test name="Personal loan">
         <classes>
-            <class name="Day1">
+            <class name="test.Day1">
                 <methods>
                     <include name="Demo"></include>
                 </methods>
             </class>
-            <class name="Day2"></class>
-            <class name="Day4"></class>
+            <class name="test.Day2"></class>
+            <class name="test.Day4"></class>
 
         </classes>
     </test>
     <test name="Car Loan">
         <classes>
-<class name="Day3">
+<class name="test.Day3">
 
     <methods>
-        <exclude name="MobileLoginCarLoan"></exclude>
+        <exclude name="API.*"></exclude>
     </methods>
 </class>
         </classes>
