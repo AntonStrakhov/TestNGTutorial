@@ -7,6 +7,8 @@
     <list default="true" id="de72553e-173f-4f19-abd0-ae75e4e507f9" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/test/Day3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/Day3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/Day4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/Day4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testng.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testng.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.Day3">
+  <component name="RunManager" selected="TestNG.C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng.xml">
     <configuration name="C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng2.xml" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGTutorial" />
       <option name="SUITE_NAME" value="$PROJECT_DIR$/testng2.xml" />
@@ -88,17 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Day1" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="TestNGTutorial" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="test.Day1" />
-      <option name="TEST_OBJECT" value="CLASS" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Day3" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="TestNGTutorial" />
       <extension name="coverage">
@@ -116,13 +107,31 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day3.WebLoginCarLoan" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="TestNGTutorial" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.Day3" />
+      <option name="METHOD_NAME" value="WebLoginCarLoan" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.Day3" />
-        <item itemvalue="TestNG.C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng3.xml" />
         <item itemvalue="TestNG.C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng.xml" />
+        <item itemvalue="TestNG.Day3" />
+        <item itemvalue="TestNG.Day3.WebLoginCarLoan" />
+        <item itemvalue="TestNG.C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng3.xml" />
         <item itemvalue="TestNG.C:/Users/astonuser/IdeaProjects/TestNGTutorial/testng2.xml" />
-        <item itemvalue="TestNG.Day1" />
       </list>
     </recent_temporary>
   </component>

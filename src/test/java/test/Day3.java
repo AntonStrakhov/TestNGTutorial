@@ -2,6 +2,8 @@ package test;
 
 import org.testng.annotations.*;
 
+import java.net.URL;
+
 public class Day3 {
 
     @BeforeClass
@@ -13,9 +15,11 @@ public class Day3 {
         System.out.println("after executing any method in day 3 class");
     }
 
+    @Parameters({"URL"})
     @Test(groups = {"Smoke"})
-    public void WebLoginCarLoan() {
+    public void WebLoginCarLoan(String URLName) {
         System.out.println("weblogincar");
+        System.out.println(URLName);
     }
 
     @BeforeMethod
