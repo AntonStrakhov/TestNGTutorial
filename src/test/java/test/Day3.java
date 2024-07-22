@@ -38,7 +38,17 @@ public class Day3 {
         System.out.println("I am no 1");
     }
 
-    @Test
+    @Test (enabled = false)
+    public void MobileSignInCarLoan() {
+        System.out.println("Mobile SIGNIN");
+    }
+
+    @Test (timeOut = 4000)
+    public void MobileSignOutCarLoan() {
+        System.out.println("Mobile SIGNOUT");
+    }
+
+    @Test(dependsOnMethods = {"WebLoginCarLoan", "MobileSignOutCarLoan"})
     public void APICarLoan() {
         System.out.println("APIlogincar");
     }
