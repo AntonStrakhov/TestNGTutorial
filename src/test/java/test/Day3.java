@@ -1,13 +1,19 @@
 package test;
 
-import org.testng.annotations.AfterMethod;
-import org.testng.annotations.BeforeMethod;
-import org.testng.annotations.BeforeSuite;
-import org.testng.annotations.Test;
+import org.testng.annotations.*;
 
 public class Day3 {
 
-    @Test
+    @BeforeClass
+    public void beforeClass() {
+        System.out.println("before executing any method in day 3 class");
+    }
+    @AfterClass
+    public void afterClass() {
+        System.out.println("after executing any method in day 3 class");
+    }
+
+    @Test(groups = {"Smoke"})
     public void WebLoginCarLoan() {
         System.out.println("weblogincar");
     }
